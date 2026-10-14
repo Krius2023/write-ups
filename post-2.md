@@ -65,7 +65,7 @@ receivedFnC.f(receivedFnC.args)
 
 ### Output
 
-![Post Image](./resources/post-2-a.png)
+![Post Image](./resources/post-2-b.png)
 
 ### Use Cases
 
