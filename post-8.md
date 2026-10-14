@@ -1,6 +1,6 @@
-
-
 # Quote Generator using Vite-React & tailwind CSS
+
+![Post Image](./resources/post-8-b.webp)
 
 *   Set up vite-react. For reference: [https://vitejs.dev/guide/](https://vitejs.dev/guide/) (make sure you have installed the `node-modules`)
     
@@ -149,11 +149,7 @@ export const getTodaysQuote = () => {
 
 Start the app using `npm run dev` command.
 
-![Post Image](./resources/post-8-a.webp)
-![Post Image](./resources/post-8-b.webp)
-
 App runs at `http://localhost:5173/`
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696337172437/fe60abe9-a9c5-4a42-a697-046040a4be2e.png align="center")
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696337214363/3a65b610-834f-4be1-bea6-9398bdf4109e.png align="center")
+![Post Image](./resources/post-8-a.webp)
+![Post Image](./resources/post-8-b.webp)
