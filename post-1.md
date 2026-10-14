@@ -1,6 +1,6 @@
 ![Post Image](./resources/post-1-a.webp)
-# Generating Customized Sample Data to Use in the Development
-## A Guide to Creating Mock Data for Testing
+# MongoDB CRUD Coding Challenge
+## USING BOOKS & AUTHORS DATA
 
 **Prerequisites**
 
