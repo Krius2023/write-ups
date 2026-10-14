@@ -1,4 +1,5 @@
 # Using Nodemon in TypeScript Project
+
 ## Automatic restart of local server in TypeScript Project
 
 Folder Structure and file contents are given below.
@@ -109,6 +110,5 @@ After setting up the project folder and installing node modules, Run the followi
 With these steps, a development environment is established where modifications to TypeScript files trigger automatic transpilation to JavaScript, and the server reflects these changes in its responses.
 
 Github code: [https://github.com/Krius2023/nodemon-in-typescript](https://github.com/Krius2023/nodemon-in-typescript)
-![Post Image](./resources/post-5-a.webp)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1711374582364/1f46d9fb-02c3-4953-a625-97320abccd96.gif align="center")
+![Post Image](./resources/post-5-a.webp)
