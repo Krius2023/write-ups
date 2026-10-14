@@ -1,4 +1,7 @@
 ![Post Image](./resources/post-2-a.png)
+# Generating Customized Sample Data to Use in the Development
+## A Guide to Creating Mock Data for Testing
+
 One of the pattern to dynamically invoke functions based on the specific identifier.
 
 ### Function List
