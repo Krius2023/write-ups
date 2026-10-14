@@ -13,7 +13,7 @@
     
 2. Run `npm install`
     
-3. Write codes inside services folder (`dao.service.ts`, [`get.author`](http://get.author)`.ts`, [`get.book`](http://get.book)`.ts`)
+3. Write codes inside services folder (`dao.service.ts`, `get.author.ts`, `get.book.ts`)
     
 4. Run `tsc`
     
