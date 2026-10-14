@@ -1,3 +1,4 @@
+![Post Image](./resources/post-1-a.webp)
 **Prerequisites**
 
 * Nodejs installed
