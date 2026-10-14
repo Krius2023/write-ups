@@ -1,6 +1,8 @@
-![Post Image](./resources/post-2-a.png)
 # Dynamic Function Calls with JavaScript Mapping Technique
+
 ## Function Mappings - Dynamically call different functions based on the specific identifier
+
+![Post Image](./resources/post-2-a.png)
 
 One of the pattern to dynamically invoke functions based on the specific identifier.
 
