@@ -1,5 +1,4 @@
-# Using Nodemon in TypeScript Project
-## Automatic restart of local server in TypeScript Project
+# Using npmrc profiles to switch between differnet npm registry
 
 Easy way to achieve it!!!
 
