@@ -1,7 +1,9 @@
 # One of the approaches to deploy Vite + React app in GitHub
+
 ## An easy way to host the application. So far, I have tried with the application which doesn't involve DB)
 
 ![Post Image](./resources/post-6-a.webp)
+
 In the application folder, it requires two things.
 
 1\. A change in the existing **vite.config.js file in the main folder**
