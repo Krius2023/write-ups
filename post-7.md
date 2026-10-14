@@ -1,3 +1,5 @@
+# TypeScript - Types and Interfaces which I use in day-to-day project work
+
 *   Syntax
     
 
