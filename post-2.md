@@ -1,6 +1,6 @@
 ![Post Image](./resources/post-2-a.png)
-# Generating Customized Sample Data to Use in the Development
-## A Guide to Creating Mock Data for Testing
+# Dynamic Function Calls with JavaScript Mapping Technique
+## Function Mappings - Dynamically call different functions based on the specific identifier
 
 One of the pattern to dynamically invoke functions based on the specific identifier.
 
