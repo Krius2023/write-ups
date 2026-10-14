@@ -1,4 +1,7 @@
 ![Post Image](./resources/post-9-a.jpeg)
+
+# I did this to complete one of my daily tasks - JavaScript - Array of objects
+
 Sharing one from my day-to-day tasks along with the approach I used to complete it.
 
 I am given a file with an array of old records. The array is structured as follows:
