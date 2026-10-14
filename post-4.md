@@ -1,7 +1,9 @@
 # Generating Customized Sample Data to Use in the Development
+
 ## A Guide to Creating Mock Data for Testing
 
 ![Post Image](./resources/post-4-a.webp)
+
 My aim is create an array of objects with some fields and to use in the development process as sample data.
 
 The following fields are required.
