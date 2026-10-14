@@ -1,5 +1,4 @@
-![Post Image](./resources/post-8-a.webp)
-![Post Image](./resources/post-8-b.webp)
+
 
 # Quote Generator using Vite-React & tailwind CSS
 
@@ -8,9 +7,8 @@
 *   Set up tailwind CSS inside the vite-react project. For reference: [https://tailwindcss.com/docs/guides/vite](https://tailwindcss.com/docs/guides/vite) (make sure you added the tailwind directives in `index.css` file & necessary information in `tailwind.config.js` file)
     
 *   The file structure is as follows:
-    
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696336528730/42913fdf-1ecb-45c5-b12d-45ac558d62c1.png align="center")
+  
+![Post Image](./resources/post-8-c.webp)
 
 1.  Place `favicon` file inside `public` folder
     
@@ -150,6 +148,9 @@ export const getTodaysQuote = () => {
 ```
 
 Start the app using `npm run dev` command.
+
+![Post Image](./resources/post-8-a.webp)
+![Post Image](./resources/post-8-b.webp)
 
 App runs at `http://localhost:5173/`
 
