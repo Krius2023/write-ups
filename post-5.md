@@ -1,3 +1,6 @@
+# Using Nodemon in TypeScript Project
+## Automatic restart of local server in TypeScript Project
+
 Folder Structure and file contents are given below.
 
 ```xml
