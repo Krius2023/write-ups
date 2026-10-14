@@ -1,6 +1,8 @@
-![Post Image](./resources/post-1-a.webp)
 # MongoDB CRUD Coding Challenge
+
 ## USING BOOKS & AUTHORS DATA
+
+![Post Image](./resources/post-1-a.webp)
 
 **Prerequisites**
 
