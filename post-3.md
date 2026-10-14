@@ -1,3 +1,6 @@
+# Using Nodemon in TypeScript Project
+## Automatic restart of local server in TypeScript Project
+
 Easy way to achieve it!!!
 
 Our first step is to create **npmrc profiles** for each registry.
