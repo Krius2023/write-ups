@@ -1,6 +1,6 @@
-![Post Image](./resources/post-9-a.jpeg)
-
 # I did this to complete one of my daily tasks - JavaScript - Array of objects
+
+![Post Image](./resources/post-9-a.jpeg)
 
 Sharing one from my day-to-day tasks along with the approach I used to complete it.
 
@@ -149,8 +149,6 @@ for (let parentItem of parentItems) {
     
 
 ![Post Image](./resources/post-9-b.webp)
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693917584877/e1af94ea-1202-4f3a-b2b5-c96c38b7c2c8.png align="center")
 
 If I could have done it with a different approach, your points are welcome in the comments.
 
