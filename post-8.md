@@ -1,6 +1,7 @@
 ![Post Image](./resources/post-8-a.webp)
 ![Post Image](./resources/post-8-b.webp)
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696337713204/0f0f5fcc-3d90-4926-8f07-0d9ed8ac00b9.gif align="center")
+
+# Quote Generator using Vite-React & tailwind CSS
 
 *   Set up vite-react. For reference: [https://vitejs.dev/guide/](https://vitejs.dev/guide/) (make sure you have installed the `node-modules`)
     
